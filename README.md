@@ -1,7 +1,6 @@
+Enthusiast of self-development
 Information about me:
-
-
-- Javascript, Typescript 
-- NodeJS , ReactJS
-- 📫 Contact via sms => alpyx21@gmail.com
+- I am using as my os => Fedora
+- Desktop enviroement => i3
+- 📫 Contact via email => alpyx21@gmail.com
 
