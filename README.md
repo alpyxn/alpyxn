@@ -1,4 +1,4 @@
-Self-development enthusiast:
+Self-development enthusiast
 
 Information about me:
 - I am using as my os => Fedora
