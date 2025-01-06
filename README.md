@@ -7,4 +7,4 @@ Information about me:
 - 📫 Contact via email => alpyx21@gmail.com
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,sql,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,spring)](https://skillicons.dev)
