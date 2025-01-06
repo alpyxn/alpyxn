@@ -2,5 +2,5 @@
 
 # My Skillset:
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,spring,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,spring-boot,godot)](https://skillicons.dev)
 
